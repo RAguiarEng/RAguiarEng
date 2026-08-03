@@ -1,30 +1,22 @@
 # Rodrigo Aguiar | AI & Data Engineer
 
-Senior Engineer with 20+ years of experience bridging the gap between R&D, Data Science, and Industrial Automation. Specialized in Python-driven workflows, MLOps, and the development of intelligent AI agents. Proven track record of delivering 80%+ efficiency gains and significant cost reductions through data-centric solutions.
+Senior Engineer (20+ yrs) turning complex R&D and industrial data into scalable AI solutions. Expert in Python, LLM orchestration, and MLOps.
 
-### Technical Expertise
-*   **Languages:** Python (Advanced), SQL.
-*   **AI/LLM Stack:** LangChain, LangGraph, RAG (Retrieval-Augmented Generation), Ollama, Google Gemini API, OpenAI API.
-*   **Data Science:** Pandas, NumPy, Scikit-Learn, Statsmodels, Predictive Modeling.
-*   **Engineering & DevOps:** MLOps, CI/CD, Git, Docker, OCI (Oracle Cloud), FastAPI, VS Code, Jupyter.
-*   **Standards & Compliance:** ISO 17025, ISO 9223/12944, ASTM Standards.
+### Core Stack
+* **AI/LLMs:** LangChain, RAG, Ollama, Google Gemini, OpenAI API.
+* **Engineering:** Python, FastAPI, Docker, MLOps, CI/CD, OCI.
+* **Data Science:** Pandas, NumPy, Scikit-Learn, Predictive Modeling.
+* **Standards:** ISO 17025, ISO 9223, ASTM.
 
-### Professional Impact
-*   **AI & Automation:** Architected Python-based automation pipelines to replace manual overhead, significantly increasing data processing throughput and team productivity.
-*   **Systems Implementation:** Led the end-to-end deployment of LIMS (Laboratory Information Management Systems) and Ansys Granta MI, ensuring ISO/IEC 17025 compliance and reducing internal turnaround time by 80%.
-*   **Cost Optimization:** Developed proprietary material reliability testing methods—leveraging thermal analysis and predictive models—resulting in >$40k savings per material while reducing testing cycles by 70%.
-*   **Technical Standardization:** Streamlined cross-departmental operations (Quality, Technical Assistance, and Engineering) by unifying technical standards (ISO 9223/12944), eliminating redundant reporting and accelerating time-to-market.
+### Key Impact
+* **AI Automation:** Built autonomous RAG agents & automated pipelines, replacing manual cycles with scalable AI.
+* **Systems Strategy:** Led end-to-end LIMS/Ansys implementation (ISO 17025), reducing turnaround by 80%.
+* **Cost Efficiency:** Created predictive reliability methods (thermal analysis) saving >$40k/project.
+* **Standardization:** Unified cross-departmental technical standards, eliminating operational redundancy.
 
-### Featured Projects
-*   **[Central Market Agent](https://github.com/RAguiarEng/central_market_agent):** Autonomous RAG agent for corporate knowledge retrieval.
-    *   *Tech:* Python, LangChain, FAISS, Ollama, LangSmith.
-*   **[GenAI Insurance Bot](https://github.com/RAguiarEng/GenAI_Seguros):** AI-powered customer service assistant for insurance automation.
-    *   *Tech:* FastAPI, Streamlit, ChromaDB, Gemini/Gemma models.
-
-### Education & Certifications
-*   **Master of Science (MSc) & BSc in Chemical Engineering.**
-*   **AI Agent Development | Oracle Next Education.** 
-*   **AI applied to Insurance | I2A2 Academy.**
+### Projects
+* **[Central Market Agent](https://github.com/RAguiarEng/central_market_agent):** Autonomous RAG agent for corporate knowledge.
+* **[GenAI Insurance Bot](https://github.com/RAguiarEng/GenAI_Seguros):** AI-powered customer service assistant. 
 
 ### Connect
 - 💼 [LinkedIn](https://linkedin.com/in/rsouzaaguiar/)
