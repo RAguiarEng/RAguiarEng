@@ -28,5 +28,5 @@ Senior Engineer with 20+ years of experience bridging the gap between R&D, Data 
 
 ### Connect
 - 💼 [LinkedIn](https://linkedin.com/in/rsouzaaguiar/)
-- 💬 [WhatsApp](https://wa.me/5547992704018?text=Olá%20Rodrigo.%20Entro%20em%20contato%20através%20do%20seu%20GitHub.)
-- 📧 [E-mail](mailto:raguiar.eng@gmail.com?subject=Contato%20pelo%20site)
+- 💬 [WhatsApp](https://wa.me/5547992704018?text=Hi%20Rodrigo.%20I%20checked%20your%20GitHub%20profile.)
+- 📧 [E-mail](mailto:raguiar.eng@gmail.com?subject=GitHub%20contact)
