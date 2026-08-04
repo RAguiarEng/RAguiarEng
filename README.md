@@ -1,18 +1,18 @@
 # Rodrigo Aguiar | AI & Data Engineer
 
-Senior Engineer (20+ yrs) turning complex R&D and industrial data into scalable AI solutions. Expert in Python, LLM orchestration, and MLOps.
+Senior Engineer (20+ yrs) with a strong foundation in Industrial R&D and Systems Architecture. Currently dedicated to building AI agents and MLOps pipelines to deliver scalable, production-ready solutions.
 
-### Core Stack
-* **AI/LLMs:** LangChain, RAG, Ollama, Google Gemini, OpenAI API.
-* **Engineering:** Python, FastAPI, Docker, MLOps, CI/CD, OCI.
-* **Data Science:** Pandas, NumPy, Scikit-Learn, Predictive Modeling.
-* **Standards:** ISO 17025, ISO 9223, ASTM.
+- **Current Core Focus:** AI Agents, LLM Orchestration, and MLOps.
+- **Availability:** GMT-3 (Brazil) — Fully flexible for US time zone alignment.
+- **Languages:** Python (Advanced), SQL.
+- **AI/LLM Stack:** LangChain, RAG, Ollama, Google Gemini, OpenAI API.
+- **Systems/Cloud:** FastAPI, Docker, OCI, CI/CD, Git.
+- **Foundational Expertise:** Predictive Modeling, Data Science (Pandas/NumPy), Process Automation, ISO Standards (17025).
 
-### Key Impact
-* **AI Automation:** Built autonomous RAG agents & automated pipelines, replacing manual cycles with scalable AI.
-* **Systems Strategy:** Led end-to-end LIMS/Ansys implementation (ISO 17025), reducing turnaround by 80%.
-* **Cost Efficiency:** Created predictive reliability methods (thermal analysis) saving >$40k/project.
-* **Standardization:** Unified cross-departmental technical standards, eliminating operational redundancy.
+### Professional Impact
+* **AI & Automation:** Architecting autonomous RAG agents & automation pipelines to replace manual workflows with scalable AI.
+* **Systems Architecture:** 20+ years of experience leading complex deployments—from LIMS/Ansys (ISO 17025) to scalable cloud infrastructure.
+* **Cost & Efficiency:** Historically identified and implemented technical solutions increasing operational efficiency by 80% and generating >$40k savings per project.
 
 ### Projects
 * **[Central Market Agent](https://github.com/RAguiarEng/central_market_agent):** Autonomous RAG agent for corporate knowledge.
