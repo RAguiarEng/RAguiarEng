@@ -19,6 +19,7 @@ Senior Engineer (20+ yrs) turning complex R&D and industrial data into scalable 
 * **[GenAI Insurance Bot](https://github.com/RAguiarEng/GenAI_Seguros):** AI-powered customer service assistant. 
 
 ### Connect
-- 💼 [LinkedIn](https://linkedin.com/in/rsouzaaguiar/)
+- 🧑‍💻 [LinkedIn](https://linkedin.com/in/rsouzaaguiar/)
+- 💼 [Professional history](https://raguiar.eng.br)
 - 💬 [WhatsApp](https://wa.me/5547992704018?text=Hi%20Rodrigo.%20I%20checked%20your%20GitHub%20profile.)
 - 📧 [E-mail](mailto:raguiar.eng@gmail.com?subject=GitHub%20contact)
