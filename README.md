@@ -16,7 +16,6 @@ Senior Engineer (20+ yrs) with a strong foundation in Industrial R&D and Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 *Agent orchestration also includes LangGraph (stateful workflows) and LangSmith (observability & debugging).*
