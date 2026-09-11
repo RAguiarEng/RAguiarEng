@@ -1,4 +1,4 @@
-![banner_trabalho_tema_SuperMario](programacao_banner_SuperMario.png)
+![video_trabalho_tema_SuperMario](programacao_video_SuperMario.mp4)
 
 # Rodrigo Aguiar | AI & Data Engineer
 
