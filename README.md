@@ -1,5 +1,5 @@
 ![video_trabalho_tema_SuperMario](programacao_banner_SuperMario.png)
-https://github.com/user-attachments/assets/55de50d6-d7c2-43b2-8a1f-94754aaac31d
+![](https://github.com/user-attachments/assets/55de50d6-d7c2-43b2-8a1f-94754aaac31d)
 
 # Rodrigo Aguiar | AI & Data Engineer
 
