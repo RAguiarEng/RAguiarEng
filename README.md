@@ -1,3 +1,5 @@
+![banner_trabalho_tema_SuperMario](programacao_banner_SuperMario.png)
+
 # Rodrigo Aguiar | AI & Data Engineer
 
 Senior Engineer (20+ yrs) with a strong foundation in Industrial R&D and Systems Architecture. Currently dedicated to building AI agents and MLOps pipelines to deliver scalable, production-ready solutions.
