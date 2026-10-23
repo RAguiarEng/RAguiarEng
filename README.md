@@ -51,7 +51,6 @@ Exploring LLM-powered automation, AI agents, retrieval-augmented generation (RAG
 ### Connect
 
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/rsouzaaguiar/?locale=en-US)
-- 💼 [Professional Experience](https://raguiar.eng.br/profissao.html)
 - 🌐 [Portfolio](https://raguiar.eng.br/en/index.html)
 - 💬 [WhatsApp](https://wa.me/5547992704018?text=Hi%20Rodrigo.%20I%20checked%20your%20GitHub%20profile.)
 - 📧 [Email](mailto:raguiar.eng@gmail.com?subject=GitHub%20contact)
