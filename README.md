@@ -27,7 +27,6 @@ Senior Engineer (20+ yrs) with a strong foundation in Industrial R&D and Systems
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### LLM APIs & Model Providers
@@ -36,12 +35,7 @@ Senior Engineer (20+ yrs) with a strong foundation in Industrial R&D and Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### Projects
-* **[Central Market Agent](https://github.com/RAguiarEng/central_market_agent):** Autonomous RAG agent for corporate knowledge.
-* **[GenAI Insurance Bot](https://github.com/RAguiarEng/GenAI_Seguros):** AI-powered customer service assistant.
 
 ### Connect
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/rsouzaaguiar/?locale=en-US)
