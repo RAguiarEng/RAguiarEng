@@ -1,4 +1,4 @@
-![banner_trabalho_tema_SuperMario](programacao_banner_SuperMario.png)
+![banner_method_RSA](banner_github.png)
 
 # Rodrigo Aguiar | Chemical Engineer · AI & Data Engineer
 
