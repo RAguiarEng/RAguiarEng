@@ -1,10 +1,12 @@
 ![banner_method_RSA](banner_github.png)
 
-# Rodrigo Aguiar | Chemical Engineer · AI & Data Engineer
+## **Chemical Engineer • AI & Data Engineer • Automation & Systems Integration**
 
-Chemical Engineer (UFPR) with an MSc in Chemical Engineering (UFSC) and 20+ years of experience spanning Industrial R&D, laboratory management, quality systems, and process improvement.
+Engineer with 20+ years of experience developing data-driven solutions, automating processes, and improving industrial operations.
 
-Currently expanding my work into **AI Engineering, Data Automation, and Systems Integration**, combining engineering fundamentals and operational experience with practical software development.
+My work combines applied engineering, Python development, systems integration, and AI solutions, including RAG architectures, intelligent agents, workflow automation, and cloud deployment.
+
+Focused on building reliable, maintainable, and business-oriented technology solutions throughout their lifecycle.
 
 **Current Focus:** AI Agents · Workflow Automation · Data Pipelines · API Integration
 
