@@ -1,6 +1,6 @@
 ![banner_method_RSA](banner_github.png)
 
-## **Chemical Engineer • AI & Data Engineer • Automation & Systems Integration**
+## **Chemical Engineer • Data Scientist • Automation & Systems Integration**
 
 Engineer with 20+ years of experience developing data-driven solutions, automating processes, and improving industrial operations.
 
